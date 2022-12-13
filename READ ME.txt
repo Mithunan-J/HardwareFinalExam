@@ -1,0 +1,20 @@
+Mithunan Jayaseelan
+Hardware Final Exam
+100787442 
+1+0+0+7+8+7+4+4+2 = 33 = ODD
+
+I made a controller for the blinky ghost (the one that chases pac man).
+The push buttons are used to change Blinky's horizontal or vertical movement.
+Pressing the left push button will change the vertical movement.
+- If Blinky is moving horizontally he will begin moving vertically.
+- If Blinky is already moving vertically he will change direction.
+Pressing the right push button will change the horizontal movemnt.
+- If Blinky is moving vertically he will begin moving horizontally.
+- If Blinky is already moving horizontally he will change direction.
+
+The block in the middle of the controller is a photo resistor.
+When players cover the photoresistor with their finger, Blinky will temporarily turn invisible. This can be a useful gameplay feature as it will help the player avoid being eaten by pac man.
+
+The controller is shaped like Blinky in order to better suit his likeness.
+I  round the edges of the controller so that it is comfortable to hold.
+There is extra space around the controller for player to rest their fingers.

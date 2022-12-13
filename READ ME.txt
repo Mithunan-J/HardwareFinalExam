@@ -18,3 +18,7 @@ When players cover the photoresistor with their finger, Blinky will temporarily 
 The controller is shaped like Blinky in order to better suit his likeness.
 I  round the edges of the controller so that it is comfortable to hold.
 There is extra space around the controller for player to rest their fingers.
+
+Inputs = 2 push buttons
+Actuator = 1 led
+Sensor = Photoresistor
